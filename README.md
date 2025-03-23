@@ -74,11 +74,3 @@ This project is a Streamlit application that leverages Google's Gemini AI to aut
 *   **google-generativeai:** For interacting with the Google Gemini API.
 *   **python-dotenv:** For loading environment variables from a `.env` file.
 *   **tempfile:** For creating temporary files.
-
-## Contributing
-
-Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-[Specify the license you want to use, e.g., MIT License]
